@@ -14,7 +14,7 @@
     animation: change 20s infinite linear;
     background-size: cover;
  }
- /* @keyframes change{
+ @keyframes change{
    0%{
       background-image: url(images/background.jpg);  
    }
@@ -30,7 +30,7 @@
    100%{
       background-image: url(images/background.jpg);   
    }
- } */
+ } 
 nav{
    background: linear-gradient(to top,black,rgb(56, 54, 54));
 }
